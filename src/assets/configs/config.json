@@ -1,0 +1,8 @@
+{
+  "dateFormat": "dd/MM/yyyy",
+  "countryLocale": "he-IL",
+  "signaturePadUri": "http://localhost:64714/",
+  "countryKey": 10,
+  "expiryDateMinMonths": 3,
+  "baseURL": "http://192.168.1.33:8002"
+}

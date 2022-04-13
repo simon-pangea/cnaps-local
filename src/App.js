@@ -1,24 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import SPadTest from './Components/SignaturePad-UI/SPadTest';
+import FingerPrint from './Components/FingerPrint-UI/FingerPrint_component';
+import SignPad from './Components/SignaturePad-UI/SignaturePad_component';
+import FingerPrint10 from './Components/FingerPrint-UI/FingerPrint10';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    //<SignPad/>
+    //<br/>
+    //<FingerPrint/>
+    <FingerPrint10/>
   );
 }
 
